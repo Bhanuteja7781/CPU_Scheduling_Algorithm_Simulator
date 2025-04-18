@@ -1,4 +1,5 @@
 🧠 CPU Scheduling Algorithm Simulator
+
 A web-based interactive simulator for visualizing and understanding various CPU scheduling algorithms commonly used in operating systems.
 
 🚀 Features Support for multiple CPU scheduling algorithms:
